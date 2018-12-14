@@ -14,3 +14,5 @@ Graylog2 alternative to elasticsearch  Licence: GPL
 Prometheus for monitoring  Licence: Apache 2.0
 
 etcd for service discovery  Licence: Apache 2.0
+
+Plotly Licence: MIT
